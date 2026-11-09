@@ -1,0 +1,4 @@
+#string functions
+#str.endwith(somethings)
+str = "hi my name is yash"
+print(str.endswith("sh"))
